@@ -105,11 +105,13 @@ Electronics as the only profitable category ($41.21), while Furniture (-$76.89) 
 Central region (50.39 USD) is the only profitable area, while South (-36.25 USD), North (-36.37 USD), West (-37.17 USD), and East (-37.60 USD) all report losses. These insights highlight a need for regional strategy adjustments to improve profitability across underperforming regions.
 
 # Customer Segmentation
-**Activity:** Segmented customers into groups (Best, Loyal, At Risk, Lost) to assess retention and engagement.
+* Performed RFM (Recency, Frequency, Monetary) analysis to segment customers based on behavioral data.
+* Integrated Polarity Scores from customer feedback to enrich segmentation with sentiment insights.
+* Applied clustering techniques to group customers into actionable segments such as Best, Loyal, At Risk, and Lost.
+* Enabled targeted retention strategies and personalized engagement plans based on segment profiles.
 
 ![](/Images/14.png)
 
-Conclusion:
 This bar chart categorizes customers into Loyal, Lost, At Risk, and Best Customers, providing a snapshot of customer retention and engagement.
 To deepen the analysis, you might:
 - Track trends over time: See if the number of lost or at-risk customers is increasing and identify patterns.
