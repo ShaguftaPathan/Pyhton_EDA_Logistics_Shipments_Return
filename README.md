@@ -1,20 +1,22 @@
 A comprehensive analysis of shipment delays in logistics, helping businesses identify trends, mitigate risks, and optimize delivery efficiency. Using Python, Pandas, Seaborn, and Scikit-learn.
 
-<a href="https://github.com/ShaguftaPathan/Pyhton_EDA_Logistics_Shipments_Return/blob/main/logistics.ipynb">View Complete Jupyter Notebook</a>
+<a href="hhttps://shaguftapathan.github.io/Pyhton_EDA_Logistics_Shipments_Return/">View Project!</a>
 
-# Monthly sales vs return request trend
+<a href="https://github.com/ShaguftaPathan/Pyhton_EDA_Logistics_Shipments_Return/blob/main/logistics.ipynb">View Complete Jupyter Notebook!</a>
+
+# Monthly Sales vs Return Request Trend
 Analyzed monthly revenue and return request trends from September 2024 to May 2025 to identify seasonal patterns and correlations.
 
 ![](/Images/a-1.png)
 
 The graph tracks normalized revenue and return request rate from September 2024 to May 2025, highlighting fluctuations and potential correlations between sales and returns over time. Revenue peaked in December 2024 before declining, while return request rates varied, trending upward in May 2025. 
 
-# Return rate by product category
+# Return Rate by Product Category
 Evaluated return rates across product categories to identify high-risk segments.
 
 ![](/Images/12.png)
 
-# Return reason distribution
+# Return Reason Distribution
 Categorized and visualized reasons for product returns to detect operational issues.
 
 ![](/Images/13.png)
@@ -22,7 +24,7 @@ Categorized and visualized reasons for product returns to detect operational iss
 Return Rate by Product Category shows Food and Medical Equipment have the highest returns, likely due to perishability and compliance issues.
 Return Reasons Distribution reveals "Damaged" and "Wrong Product" as leading causes, pointing to potential improvements in packaging and order accuracy.
 
-# Correlation matrix (numerical fields)
+# Correlation Matrix (numerical fields)
 Calculated correlation between numerical variables to identify key relationships affecting cost and customer satisfaction.
 
 ![](/Images/4.png)
@@ -31,7 +33,7 @@ Strong Positive Correlations: Distance & Shipping Cost (0.9), Weight & Shipping 
 Strong Negative Correlations: Delay & Customer Rating (-0.89), Distance & Customer Rating (-0.094).
 Insights suggest that longer distances and higher weight drive costs, while delays significantly reduce customer satisfaction, offering critical areas for optimization.
 
-# Distribution of shipment delays
+# Distribution of Shipment Delays
 Assessed the frequency and distribution of shipment delays.
 
 ![](/Images/1.png)
@@ -53,7 +55,7 @@ Identified the most common reasons for shipment delays to guide mitigation strat
 
 Weather as the leading cause of delays (1333 cases), followed by Traffic (1150), Hub Delay (513), and Custom Hold (330). These insights highlight key areas for logistics optimization, improving delivery efficiency and minimizing disruptions.
 
-# Regional delays comparison
+# Regional Delays Comparison
 Compared delay trends across regions to detect geographic performance gaps.
 
 ![](/Images/5.png)
@@ -68,7 +70,7 @@ Analyzed customer satisfaction by product category to evaluate quality and exper
 
 Categories with higher ratings likely offer better quality and reliability, while lower-rated categories may have issues related to product quality or service experience. These insights can help refine inventory management, improve customer service strategies, and enhance product offerings for a better overall experience.
 
-# Calculate average rating per category
+# Calculate Average Rating per Category
 Calculated and visualized average customer ratings per product category.
 
 ![](/Images/9_1.png)
@@ -76,7 +78,7 @@ Calculated and visualized average customer ratings per product category.
 Apparel (4.13) has the highest rating, followed closely by Furniture, Electronics, and Food (4.12 each). Medical Equipment (4.11) and Automotive (4.10) rank slightly lower, but all categories maintain strong overall ratings. 
 These insights indicate consistent customer satisfaction across categories, with potential for further improvement in lower-rated segments.
 
-# Return requests vs Delays
+# Return Requests vs Delays
 Examined the impact of shipment delays on product return requests using box plots.
 
 ![](/Images/7.png)
@@ -104,7 +106,9 @@ Central region (50.39 USD) is the only profitable area, while South (-36.25 USD)
 
 # Customer Segmentation
 **Activity:** Segmented customers into groups (Best, Loyal, At Risk, Lost) to assess retention and engagement.
+
 ![](/Images/14.png)
+
 Conclusion:
 This bar chart categorizes customers into Loyal, Lost, At Risk, and Best Customers, providing a snapshot of customer retention and engagement.
 To deepen the analysis, you might:
