@@ -1,6 +1,6 @@
 A comprehensive analysis of shipment delays in logistics, helping businesses identify trends, mitigate risks, and optimize delivery efficiency. Using Python, Pandas, Seaborn, and Scikit-learn.
 
-<a href="hhttps://shaguftapathan.github.io/Pyhton_EDA_Logistics_Shipments_Return/">View Project!</a>
+<a href="https://shaguftapathan.github.io/Pyhton_EDA_Logistics_Shipments_Return/">View Project!</a>
 
 <a href="https://github.com/ShaguftaPathan/Pyhton_EDA_Logistics_Shipments_Return/blob/main/logistics.ipynb">View Complete Jupyter Notebook!</a>
 
